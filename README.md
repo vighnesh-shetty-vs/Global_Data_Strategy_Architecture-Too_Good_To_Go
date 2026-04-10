@@ -18,7 +18,7 @@ This schema normalises the data ecosystem by linking critical dimension tables (
 * [cite_start]Order transactions and payment statuses [cite: 275, 290-295].
 * [cite_start]Environmental impact metrics (CO₂ saved, water saved) [cite: 326, 333-335].
 
-![Conceptual Data Model](./CDM_2.png)
+![Conceptual Data Model](./assets/CDM_2.png)
 *(Fig 1: The Star Schema linking dimensions and fact tables to support enterprise reporting and real-time operations.)*
 
 ---
@@ -32,7 +32,7 @@ Key metrics tracked include:
 * [cite_start]**Retention:** Customer Retention Rate, Avg Partner Rating[cite: 622].
 * [cite_start]**Impact:** Cumulative Meals Saved, CO₂ Avoided (Tonnes)[cite: 623].
 
-![KPI Dashboard](./Dashboard_1.png)
+![KPI Dashboard](./assets/Dashboard_1.png)
 *(Fig 2: FY 2024 KPI Performance Dashboard visualising momentum and growth trends.)*
 
 ---
@@ -43,7 +43,7 @@ Data is only valuable if it reaches the right stakeholders at the right time. [c
 
 [cite_start]This matrix dictates the frequency, distribution channel, ownership, and strategic objective for every KPI [cite: 642-647]. [cite_start]For example, the Head of Sustainability owns the monthly reporting of CO₂ saved to ensure public and NGO transparency, while the Head of Product monitors Weekly Active Users to track app engagement [cite: 648-653, 666-671].
 
-![KPI Distribution Matrix](./KPI_3.png)
+![KPI Distribution Matrix](./assets/KPI_3.png)
 *(Fig 3: The internal distribution guide aligning data outputs with departmental actions.)*
 
 ---
